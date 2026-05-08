@@ -36,21 +36,19 @@ When you're ready to deploy, check out our [hosting options](https://docs.parade
 
 [ParadeDB](https://paradedb.com) is a PostgreSQL extension that brings Elastic-quality full-text search and analytics directly inside Postgres.
 
--	[x] [Full-Text Search](https://docs.paradedb.com/documentation/full-text/overview)
-	-	[x] [BM25 Scoring](https://docs.paradedb.com/documentation/sorting/score)
-	-	[x] [Top K](https://docs.paradedb.com/documentation/sorting/topk)
-	-	[x] [Highlighting](https://docs.paradedb.com/documentation/full-text/highlight)
-	-	[x] [Tokenizers & Token Filters](https://docs.paradedb.com/documentation/tokenizers/overview)
--	[x] [Filtering](https://docs.paradedb.com/documentation/filtering)
--	[x] [Aggregates](https://docs.paradedb.com/documentation/aggregates/overview)
-	-	[x] [Columnar Storage](https://docs.paradedb.com/documentation/indexing/columnar)
-	-	[x] [Bucket & Metrics](https://docs.paradedb.com/documentation/aggregates/overview)
-	-	[x] [Facets](https://docs.paradedb.com/documentation/aggregates/facets)
--	[x] [JOINs](https://docs.paradedb.com/documentation/joins/overview)
--	[ ] Vector Search (coming soon)
--	[ ] Hybrid Search (coming soon)
+-	[Full-Text Search](https://docs.paradedb.com/documentation/full-text/overview)
+	-	[BM25 Scoring](https://docs.paradedb.com/documentation/sorting/score)
+	-	[Top K](https://docs.paradedb.com/documentation/sorting/topk)
+	-	[Highlighting](https://docs.paradedb.com/documentation/full-text/highlight)
+	-	[Tokenizers & Token Filters](https://docs.paradedb.com/documentation/tokenizers/overview)
+-	[Filtering](https://docs.paradedb.com/documentation/filtering)
+-	[Aggregates](https://docs.paradedb.com/documentation/aggregates/overview)
+	-	[Columnar Storage](https://docs.paradedb.com/documentation/indexing/columnar)
+	-	[Bucket & Metrics](https://docs.paradedb.com/documentation/aggregates/overview)
+	-	[Facets](https://docs.paradedb.com/documentation/aggregates/facets)
+-	[JOINs](https://docs.paradedb.com/documentation/joins/overview)
 
-Star and watch this repository to follow along. See our [current projects](https://github.com/paradedb/paradedb/projects?query=is%3Aopen) and [long-term roadmap](https://docs.paradedb.com/welcome/roadmap).
+Star and watch the [repository](https://github.com/paradedb/paradedb) to follow along. See our [current projects](https://github.com/paradedb/paradedb/projects?query=is%3Aopen) and [long-term roadmap](https://docs.paradedb.com/welcome/roadmap).
 
 ## How It Works
 
@@ -71,7 +69,6 @@ ParadeDB integrates with the tools you already use, with more on the way.
 -	[Django](https://github.com/paradedb/django-paradedb)
 -	[SQLAlchemy](https://github.com/paradedb/sqlalchemy-paradedb)
 -	[Rails](https://github.com/paradedb/rails-paradedb)
--	More coming (Prisma, and others)
 
 ### AI Agents
 
@@ -83,7 +80,6 @@ ParadeDB integrates with the tools you already use, with more on the way.
 -	[Railway](https://docs.paradedb.com/deploy/cloud-platforms/railway)
 -	[Render](https://docs.paradedb.com/deploy/cloud-platforms/render)
 -	[DigitalOcean](https://docs.paradedb.com/deploy/cloud-platforms/digitalocean)
--	More coming (Heroku, and others)
 
 ## Community & Support
 
@@ -94,8 +90,8 @@ ParadeDB integrates with the tools you already use, with more on the way.
 
 ## Contributing
 
-We welcome contributions of all sizes! Check out our [good first issues](https://github.com/paradedb/paradedb/labels/good%20first%20issue) to get started. For larger contributions, we recommend discussing them with us in [Slack](https://paradedb.com/slack) first. See our [Contributing Guide](/CONTRIBUTING.md) and [Code of Conduct](/CODE_OF_CONDUCT.md) for details.
+We welcome contributions of all sizes! Check out our [good first issues](https://github.com/paradedb/paradedb/labels/good%20first%20issue) to get started. For larger contributions, we recommend discussing them with us in [Slack](https://paradedb.com/slack) first. See our Contributing Guide (CONTRIBUTING.md) and Code of Conduct (CODE_OF_CONDUCT.md) for details.
 
 ## License
 
-ParadeDB Community is licensed under the [GNU Affero General Public License v3.0](LICENSE). For [ParadeDB Enterprise](https://docs.paradedb.com/deploy/enterprise) licensing, contact [sales@paradedb.com](mailto:sales@paradedb.com).
+ParadeDB Community is licensed under the GNU Affero General Public License v3.0. For [ParadeDB Enterprise](https://docs.paradedb.com/deploy/enterprise) licensing, contact [sales@paradedb.com](mailto:sales@paradedb.com).
