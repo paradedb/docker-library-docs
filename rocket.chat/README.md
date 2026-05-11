@@ -24,15 +24,15 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`8.4.0`, `8.4`, `8`, `latest`](https://github.com/RocketChat/Docker.Official.Image/blob/91e17d95982f90e77585256da17b0c58537171f8/8.4/Dockerfile)
+-	[`8.4.1`, `8.4`, `8`, `latest`](https://github.com/RocketChat/Docker.Official.Image/blob/6966f47d754ae023a236c4599bde2031c490ce0a/8.4/Dockerfile)
 
--	[`8.3.2`, `8.3`](https://github.com/RocketChat/Docker.Official.Image/blob/6f1f6ea034842e4677cdcfca3a910e810c6d0304/8.3/Dockerfile)
+-	[`8.3.3`, `8.3`](https://github.com/RocketChat/Docker.Official.Image/blob/6966f47d754ae023a236c4599bde2031c490ce0a/8.3/Dockerfile)
 
--	[`8.2.2`, `8.2`](https://github.com/RocketChat/Docker.Official.Image/blob/6f1f6ea034842e4677cdcfca3a910e810c6d0304/8.2/Dockerfile)
+-	[`8.2.3`, `8.2`](https://github.com/RocketChat/Docker.Official.Image/blob/6966f47d754ae023a236c4599bde2031c490ce0a/8.2/Dockerfile)
 
--	[`8.1.3`, `8.1`](https://github.com/RocketChat/Docker.Official.Image/blob/6f1f6ea034842e4677cdcfca3a910e810c6d0304/8.1/Dockerfile)
+-	[`8.1.4`, `8.1`](https://github.com/RocketChat/Docker.Official.Image/blob/6966f47d754ae023a236c4599bde2031c490ce0a/8.1/Dockerfile)
 
--	[`8.0.4`, `8.0`](https://github.com/RocketChat/Docker.Official.Image/blob/6f1f6ea034842e4677cdcfca3a910e810c6d0304/8.0/Dockerfile)
+-	[`8.0.5`, `8.0`](https://github.com/RocketChat/Docker.Official.Image/blob/6966f47d754ae023a236c4599bde2031c490ce0a/8.0/Dockerfile)
 
 -	[`7.13.6`, `7.13`, `7`](https://github.com/RocketChat/Docker.Official.Image/blob/6f1f6ea034842e4677cdcfca3a910e810c6d0304/7.13/Dockerfile)
 
