@@ -24,19 +24,19 @@ WARNING:
 
 # Supported tags and respective `Dockerfile` links
 
--	[`humble-ros-core`, `humble-ros-core-jammy`](https://github.com/osrf/docker_images/blob/eb5634cf92ba079897e44fb7541d3b78aa6cf717/ros/humble/ubuntu/jammy/ros-core/Dockerfile)
+-	[`humble-ros-core`, `humble-ros-core-jammy`](https://github.com/osrf/docker_images/blob/58af41813ba67f611943c35c551387d652fcdbde/ros/humble/ubuntu/jammy/ros-core/Dockerfile)
 
 -	[`humble-ros-base`, `humble-ros-base-jammy`, `humble`](https://github.com/osrf/docker_images/blob/20e3ba685bb353a3c00be9ba01c1b7a6823c9472/ros/humble/ubuntu/jammy/ros-base/Dockerfile)
 
 -	[`humble-perception`, `humble-perception-jammy`](https://github.com/osrf/docker_images/blob/20d40c96b426b8956dec203e236abff2ec29b188/ros/humble/ubuntu/jammy/perception/Dockerfile)
 
--	[`jazzy-ros-core`, `jazzy-ros-core-noble`](https://github.com/osrf/docker_images/blob/eb5634cf92ba079897e44fb7541d3b78aa6cf717/ros/jazzy/ubuntu/noble/ros-core/Dockerfile)
+-	[`jazzy-ros-core`, `jazzy-ros-core-noble`](https://github.com/osrf/docker_images/blob/58af41813ba67f611943c35c551387d652fcdbde/ros/jazzy/ubuntu/noble/ros-core/Dockerfile)
 
 -	[`jazzy-ros-base`, `jazzy-ros-base-noble`, `jazzy`, `latest`](https://github.com/osrf/docker_images/blob/0038f1c3a11aa0fc573d698b39ab5c204aad5a40/ros/jazzy/ubuntu/noble/ros-base/Dockerfile)
 
 -	[`jazzy-perception`, `jazzy-perception-noble`](https://github.com/osrf/docker_images/blob/0038f1c3a11aa0fc573d698b39ab5c204aad5a40/ros/jazzy/ubuntu/noble/perception/Dockerfile)
 
--	[`kilted-ros-core`, `kilted-ros-core-noble`](https://github.com/osrf/docker_images/blob/eb5634cf92ba079897e44fb7541d3b78aa6cf717/ros/kilted/ubuntu/noble/ros-core/Dockerfile)
+-	[`kilted-ros-core`, `kilted-ros-core-noble`](https://github.com/osrf/docker_images/blob/58af41813ba67f611943c35c551387d652fcdbde/ros/kilted/ubuntu/noble/ros-core/Dockerfile)
 
 -	[`kilted-ros-base`, `kilted-ros-base-noble`, `kilted`](https://github.com/osrf/docker_images/blob/b835a530495c0b411a0d15db858710a2748ee0a0/ros/kilted/ubuntu/noble/ros-base/Dockerfile)
 
