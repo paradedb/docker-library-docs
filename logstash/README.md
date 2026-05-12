@@ -28,7 +28,7 @@ WARNING:
 
 -	[`9.3.4`](https://github.com/elastic/dockerfiles/blob/82d52284ccbfe049efc893d110b35ccde03235fa/logstash/Dockerfile)
 
--	[`9.4.0`](https://github.com/elastic/dockerfiles/blob/40351d59b2e635f4d132c488ce5cc0e0962013d9/logstash/Dockerfile)
+-	[`9.4.1`](https://github.com/elastic/dockerfiles/blob/85b4ccd5da0f28db24ad3871335cfe2ed7f8aebb/logstash/Dockerfile)
 
 # Quick reference (cont.)
 
